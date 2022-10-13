@@ -64,7 +64,7 @@ def post():
   "embeds": [
     {
       "title": "Found a vaild Nirto Code !",
-      "description": "Gift code below >\n```fix\n{vcode}\n```\n**Dev's : **\nscooby#0001 , \n#8k.HITTAS\nhttps://discord.gg/2u8Gv3T4w4",
+      "description": "Gift code below >\n```fix\n{vcode}\n```\n**Dev's : **\nscooby#0001 , \n#8k.HITTAS\nhttps://discord.gg/comped",
       "color": 15656164,
       "footer": {
         "text": "#8k.HITTAS | shi was made by scooby"
